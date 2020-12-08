@@ -1,6 +1,6 @@
-### 4. JETTY
+### Tema final 1
 
-**Tema 04 - Jetty: Calculadora com Spring**
+**Tema - Jetty: Calculadora com Spring**
 
 ```
 Deploy da Calculadora com Spring utilizando JETTY.
